@@ -1,5 +1,5 @@
-printf("Hello world!!!");
-printf("Hello everybody!!!");
-print("Hello");
-print("Hello my dear friend");
-print("Glad to see you");
+printf("Hello world!!!;");
+printf("Hello everybody!!!;");
+print("Hello;");
+print("Hello my dear friend;");
+print("Glad to see you;");
